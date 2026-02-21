@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE2OTg2NjgsIm5iZiI6MTc3MTY5ODM2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIxVDE4MjYwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlOTJjZGZmNGFmZGNmYzYzNWM5NjE1Mjk4MTI5M2IwMzRmY2ZlMDFmZmMwNDFmMTgyMDBmMmI4OWVhY2QwYmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aDEUau0h0C-jHv-t-KR4teGRJIfbxX27kliCsbPnRzI" width="20%", height="30%" alt="Developer Hero GIF" />
-</div>
-
 <div align="left">
   <h1>Hey there! 👋 I'm Kushal.</h1>
 </div>
@@ -70,7 +66,3 @@ Currently, I'm contributing to the digital transformation of global trade at **D
     <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=0D1117&height=100&section=footer&text=SDE-2+%7C+CLEAN+EDITION&fontSize=20&fontColor=58a6ff" />
-</p>
