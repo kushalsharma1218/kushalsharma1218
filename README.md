@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=250&section=header&text=KUSHAL%20SHARMA&fontSize=70&animation=twinkling&fontAlignY=40&fontColor=58a6ff" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Computer%20Science.gif" width="100%" alt="Developer Hero GIF" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE2OTg2NjgsIm5iZiI6MTc3MTY5ODM2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIxVDE4MjYwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlOTJjZGZmNGFmZGNmYzYzNWM5NjE1Mjk4MTI5M2IwMzRmY2ZlMDFmZmMwNDFmMTgyMDBmMmI4OWVhY2QwYmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aDEUau0h0C-jHv-t-KR4teGRJIfbxX27kliCsbPnRzI" width="100%" alt="Developer Hero GIF" />
 </div>
 
 <div align="center">
