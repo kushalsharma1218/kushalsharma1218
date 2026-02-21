@@ -24,6 +24,7 @@ Currently, I'm contributing to the digital transformation of global trade at **D
 
 ---
 
+
 ### Technical Domain Matrix
 <div align="center">
   <table border="0">
@@ -52,6 +53,10 @@ Currently, I'm contributing to the digital transformation of global trade at **D
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushalsharma1218&base=127&label=PROFILE%20TRAFFIC&color=58a6ff&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
